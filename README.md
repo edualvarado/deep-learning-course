@@ -11,3 +11,4 @@ In this repository you will find different exercises for the fundamentals of Dee
 - Exercise 02: Backpropagation and MLP Implementation using the MNIST dataset
 - Exercise 03: Optimization and Regularization for the MNIST dataset
 - Exercise 04: PyTorch and Convolutional Networks (CNN)
+- Exercise 05: Recurrent Neural Networks (RNN)
