@@ -12,3 +12,4 @@ In this repository you will find different exercises for the fundamentals of Dee
 - Exercise 03: Optimization and Regularization for the MNIST dataset
 - Exercise 04: PyTorch and Convolutional Networks (CNN)
 - Exercise 05: Recurrent Neural Networks (RNN)
+- Exercise 06: Practical Methodology (Hyperparameter Optimization)
